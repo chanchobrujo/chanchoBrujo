@@ -1,19 +1,10 @@
-## HOLA 👋‼️
-
-Mi nombre es **Kevin Anderson Palma Llúen**, soy desarrollador Full stack, me especializo en el manejo de ✨API REST con diferentes tecnologias como:
-  - NODEjs
-  - .netCore
-  - Spring boot
+## Hi there 👋‼️
 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+My name is **Kevin Anderson Palma Llúen**, I am a full stack developer, I specialize in managing 🔒API REST with different technologies such as node.js,.netCore y spring boot. 
+I also develop desktop applications 🖥, web 💻 y mobile 📱. 
+On the front end side, I feel like working with Vue.js, React Native y React.js.
+Although I tend to adapt quickly to new technologies.⚡
+
+ 
