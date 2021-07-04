@@ -1,9 +1,12 @@
-### Hi there 👋
+## HOLA 👋‼️
 
-**KevPLL/KevPLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Kevin Anderson Palma Llúen**, soy desarrollador Full stack, me especializo en el manejo de ✨API REST con diferentes tecnologias como:
+  - NODEjs
+  - .netCore
+  - Spring boot
 
-Here are some ideas to get you started:
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
