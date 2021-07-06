@@ -5,7 +5,8 @@
 #### My name is **Kevin Anderson Palma Llúen**, I am a full stack developer, I specialize in managing 🔒API REST with different technologies such as: 
 - node.js
 - .netCore
-- spring boot. 
+- JAVA - spring boot / Hibernate. 
+- PHP
 #### I also develop:
 - desktop applications 🖥
 - applications web 💻
