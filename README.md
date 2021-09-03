@@ -1,9 +1,9 @@
 # Hi there 👋‼️<img align="center" alt="KevPLL" height="100" width="100" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 <div>
-    <a href="https://github.com/KevPLL">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevPLL&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevPLL&layout=compact&langs_count=7&theme=tokyonight" />
+    <a href="https://github.com/kevinpalma20">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=tokyonight" />
      
 </div>
  
@@ -61,7 +61,7 @@
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevPLL&repo=MULTICOM-BACKEND)](https://github.com/KevPLL/MULTICOM-BACKEND/)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=MULTICOM-BACKEND)](https://github.com/KevPLL/MULTICOM-BACKEND/)
   
 </div>
 
