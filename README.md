@@ -36,7 +36,7 @@
  </div>
  
   <div style="display: inline_block"> <br> 
-      <h2 align="left">🗄️ Tools</h2>
+      <h2 align="left">🛠️ Tools</h2>
   <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
