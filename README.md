@@ -1,9 +1,10 @@
-# Hi there 👋‼️<img align="center" alt="KevPLL" height="100" width="100" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png">
+# HI there 👋‼️ <img align="center" alt="KevPLL" height="100" width="100" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> 
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 <div>
     <a href="https://github.com/kevinpalma20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=tokyonight" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=gruvbox" />
      
 </div>
  
@@ -54,15 +55,20 @@
  <a href="https://t.me/chanchoBrujo4" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank">
   </a> 
-  <a href = "umb.kevsidorov@gmail.com">
+  <a href = "mailto:umb.kevsidorov@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/kevin-anderson-palma-llu%C3%A9n-2b544420b/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=MULTICOM-BACKEND)](https://github.com/KevPLL/MULTICOM-BACKEND/)
-  
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     
+  <a href="https://wa.me/+51947275237" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:kevinanderson.palmalluen@everis.nttdata.com" target="_blank">
+   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+     
+   
+
 </div>
 
  
