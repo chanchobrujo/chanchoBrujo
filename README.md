@@ -14,16 +14,17 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="php" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="spring" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="spring" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
   <img align="center" alt="dotnetcore" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="dotnetcore" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
   
 </div>
 
 <div style="display: inline_block"><br> 
-  <img align="center" alt="vuejs" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="html" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+  <img align="center" alt="css" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
   <img align="center" alt="javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="vuejs" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
   <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 </div>
  
