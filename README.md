@@ -7,10 +7,8 @@
      
 </div>
  
- <hr/>
- 
-
- 
+ <hr/>  
+    
 <div style="display: inline_block"><br>  
   <img align="center" alt="java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="php" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -40,6 +38,8 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  </div>
+    
+  <hr/> 
  
  <div> <br> 
   <a href="https://www.youtube.com/channel/UCMtkAtizlW9e6e6Ulks5e9A" target="_blank">
