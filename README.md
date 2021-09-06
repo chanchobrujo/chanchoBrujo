@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
 <div>
     <a href="https://github.com/kevinpalma20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=gruvbox" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=highcontrast" />
      
 </div>
  
