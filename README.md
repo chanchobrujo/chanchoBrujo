@@ -28,9 +28,10 @@
   <img align="center" alt="javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="vuejs" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
   <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="electron" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"> 
+  <img align="center" alt="bootstrap" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="sass" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
-  <img align="center" alt="sass" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-  <img align="center" alt="sass" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
+  <img align="center" alt="canva" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
 </div>
  
  <div style="display: inline_block"> <br> 
@@ -42,7 +43,8 @@
  
 <div style="display: inline_block"> <br> 
   <h2 align="left">🛠️ Tools</h2>
-  <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="npm" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> 
   <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
