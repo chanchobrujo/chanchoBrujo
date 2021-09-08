@@ -1,11 +1,11 @@
-<img height="180em" src="https://media.discordapp.net/attachments/844338509711802368/884972143195074620/piphy_1.gif" />
 
-# HI there 👋‼️ <img align="center" alt="KevPLL" height="100" width="100" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> 
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
+# HI there 👋‼️ 
+<img align="center" alt="KevPLL" height="100" width="100" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> 
+ <img height="180em" src="https://media.discordapp.net/attachments/844338509711802368/884972143195074620/piphy_1.gif" />
 <div>
     <a href="https://github.com/kevinpalma20">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=7&theme=highcontrast" />
      
         
