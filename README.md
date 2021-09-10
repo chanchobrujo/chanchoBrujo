@@ -52,7 +52,8 @@
   <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+  <img align="center" alt="vim" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+  <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
  </div>
     
   <hr/> 
