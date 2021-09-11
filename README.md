@@ -10,7 +10,7 @@
         
 </div><hr/>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-customer)](https://github.com/kevinpalma20/bootcamp2021-microservice-customer)    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinpalma20&repo=bootcamp2021-microservice-customer)](https://github.com/kevinpalma20/bootcamp2021-microservice-customer)
 
 <!-- <img height="180em" src="https://media.discordapp.net/attachments/844338509711802368/884972143195074620/piphy_1.gif" /> -->
 <h1 align="left">My skills</h1>
@@ -59,7 +59,7 @@
     
   <hr/> 
  
- <div> <br> 
+ <div>  <br>
      
    
   <a href="https://www.youtube.com/channel/UCMtkAtizlW9e6e6Ulks5e9A" target="_blank">
