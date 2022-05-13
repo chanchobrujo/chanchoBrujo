@@ -7,7 +7,7 @@
         <img height="180em" 
              src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
         <img height="180em" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=10&theme=highcontrast" />
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=15&theme=highcontrast" />
      
         
 </div><hr/>   
