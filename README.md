@@ -3,11 +3,11 @@
 <img align="center" alt="KevPLL" height="90" width="90" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> 
 
 <div>
-    <a href="https://github.com/kevinpalma20">
+    <a href="https://github.com/chanchoBrujo">
         <img height="180em" 
-             src="https://github-readme-stats.vercel.app/api?username=kevinpalma20&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+             src="https://github-readme-stats.vercel.app/api?username=chanchoBrujo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
         <img height="180em" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinpalma20&layout=compact&langs_count=15&theme=highcontrast" />
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchoBrujo&layout=compact&langs_count=15&theme=highcontrast" />
      
         
 </div><hr/>   
