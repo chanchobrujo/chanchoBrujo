@@ -66,14 +66,7 @@
  
  <div>  <br>
      
-   
-  <a href="https://www.youtube.com/channel/UCMtkAtizlW9e6e6Ulks5e9A" target="_blank">
-   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/dev_.kev/" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- <a href="https://t.me/chanchoBrujo4" target="_blank">
+ <a href="https://t.me/chanchobrujo" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:umb.kevsidorov@gmail.com">
@@ -83,12 +76,6 @@
   <a href="https://wa.me/+51947275237" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:kevinanderson.palmalluen@everis.nttdata.com" target="_blank">
-   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-     
-   
-
 </div>
 
  
