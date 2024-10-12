@@ -1,6 +1,6 @@
 
 # HI there 👋‼️ 
-<img align="center" alt="KevPLL" height="90" width="90" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> 
+<!--<img align="center" alt="chanchobrujo" height="90" width="90" src="https://cdn.discordapp.com/attachments/844338509711802368/883382275524415508/download20210905104752.png"> -->
 
 <div>
     <a href="https://github.com/chanchoBrujo">
